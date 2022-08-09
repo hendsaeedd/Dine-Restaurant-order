@@ -1,2 +1,2 @@
 # Dine-
-Dine book an order
+Dine - book an order
